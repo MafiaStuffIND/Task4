@@ -1,0 +1,5 @@
+Firstly i opened windows firewall
+checked inbound rules
+added new rule named as telnet specific port 23
+connected to that port remotedely
+removed the port telnet from inbound rules
